@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0216/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 夫蒙文慶造像記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0017.xml
+    old_id: I01n0017
+hash: sha256:28b7bdf9a151aff5a010d974b4ca2b6228b0bad3b1cc44413c8865b80cc79f65
